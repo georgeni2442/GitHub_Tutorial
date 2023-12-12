@@ -1,0 +1,15 @@
+.Rproj.user
+#.pdf
+#.html
+
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
+
+[user]
+    name = <George>
+    email = <georgeni2442@gmail.com>
+[safe]
+    directory = *
